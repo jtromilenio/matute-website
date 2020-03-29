@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+#esquinas-iguales{
+border-radius: 10px;
+position: absolute;
+top: 10px;
+left: 10px;
+width: 200px;
+height: 90px;
+background-color: lightblue;
+}
+#esquinas-igualesdiv{
+position: absolute;
+top: 10px;
+left: 10px;
+width: 300px;
+height: 100px;
+background-color: lightyellow;
+box-shadow: 10px 15px 8px 2px rgb(12,34,56);
+}
